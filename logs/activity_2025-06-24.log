@@ -1,0 +1,13 @@
+[2025-06-24 17:46:32] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin@company.com
+[2025-06-24 17:46:37] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin@company.com
+[2025-06-24 17:46:46] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 17:47:27] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 17:48:16] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 17:48:21] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 17:48:33] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: staff1
+[2025-06-24 17:48:54] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 22:53:33] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin@company.com
+[2025-06-24 22:58:35] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin@company.com
+[2025-06-24 22:59:35] User: Guest (ID: Guest) | IP: ::1 | Action: LOGIN_FAILED | Description: Failed login attempt for username: admin
+[2025-06-24 22:59:44] User: admin (ID: 1) | IP: ::1 | Action: LOGIN | Description: User admin logged in successfully
+[2025-06-24 23:54:43] User: admin (ID: 1) | IP: ::1 | Action: LOGIN | Description: User admin logged in successfully
